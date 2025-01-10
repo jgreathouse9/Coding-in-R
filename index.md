@@ -12,19 +12,23 @@ info:
  course_number: Econ 8730 / PMAP 8541 / CRJU 8900
  course_level: Graduate
  course_website: "https://gastate.view.usg.edu/d2l/home/2989895"
- course_start_end_dates: January 8 - February 24, 2024
+ course_start_end_dates: January 13 - March 1, 2025
  course_prerequisites:  
  class_meets_when:  Online Asynchronously
  class_meets_where: Online Asynchronously
 
 instructor:
--  name: Lorenzo Almada
-   title: Clinical Associate Professor
-   email: lalmada1@gsu.edu
-   office_location: 55 Park Place Room 682
-   website: "https://aysps.gsu.edu/profile/lorenzo-almada/"
-   office_hours_time: Fridays 11:00 - Noon or by Appointment (email me!)  
+-  name: Jason Coupet
+   title: Associate Professor
+   email: jcoupet@gsu.edu
+   office_location: 55 Park Place Room 465
+   website: "https://aysps.gsu.edu/profile/jason-coupet/"
+   office_hours_time: Fridays 1 - 2pm or by Appointment (email me!)  
    office_hours_location:  
+   
+teaching assistant:
+- name: Jared Greathouse
+  email: jgreathouse3@student.gsu.edu
 
 
 textbooks:
@@ -244,7 +248,7 @@ This course spans a seven-week schedule. A schedule for each week of the term is
 
 Please note: the course instructor may from time to time adjust assigned readings or adjust the due dates for assignments. The basic course content approach and learning objectives will not change, but slight modifications are possible if circumstances warrant an adjustment.
 
-Visit the [**Course Schedule**](https://lalmada1.github.io/Coding-in-R/schedule).
+Visit the [**Course Schedule**](https://jcoupet.github.io/Coding-in-R/schedule).
 
 <br>
 <br>
