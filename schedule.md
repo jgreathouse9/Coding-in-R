@@ -2,31 +2,31 @@
 layout: schedule
 title: Schedule
 
-base: 'https://github.com/lalmada1/Coding-in-R/'
+base: 'https://github.com/jcoupet/Coding-in-R/'
 
 canvas:
-  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=2989895&isprv=0'
-  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/2989895/discussions/List'
+  assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=3253562'
+  yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3253562/discussions/List'
 
 lab-due-dates:
-  lab-01: 'WED Jan 17'
-  lab-02: 'WED Jan 24'
-  lab-03: 'WED Jan 31'
-  lab-04: 'WED Feb 7'
-  lab-05: 'WED Feb 14'
+  lab-01: 'WED Jan 22'
+  lab-02: 'WED Jan 29'
+  lab-03: 'WED Feb 5'
+  lab-04: 'WED Feb 12'
+  lab-05: 'WED Feb 19'
   lab-06: 'Optional'
 
 discussion-dates:
-  topic-00: 'WED Jan 10'
-  topic-01: 'MON Jan 15'
-  topic-02: 'MON Jan 22'
-  topic-03: 'MON Jan 29'
-  topic-04: 'MON Feb 5'
-  topic-05: 'MON Feb 12'
-  topic-06: 'MON Feb 19'
+  topic-00: 'WED Jan 15'
+  topic-01: 'MON Jan 20'
+  topic-02: 'MON Jan 27'
+  topic-03: 'MON Feb 3'
+  topic-04: 'MON Feb 10'
+  topic-05: 'MON Feb 17'
+  topic-06: 'MON Feb 24'
 
 final-project:
-  due-date: 'WED Feb 21'
+  due-date: 'WED Feb 26'
 
 ---
 
