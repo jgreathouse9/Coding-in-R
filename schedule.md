@@ -2,7 +2,7 @@
 layout: schedule
 title: Schedule
 
-base: 'https://github.com/jcoupet/Coding-in-R/'
+base: 'https://github.com/jgreathouse9/Coding-in-R/'
 
 canvas:
   assignment_url: 'https://gastate.view.usg.edu/d2l/lms/dropbox/admin/folders_manage.d2l?ou=3253562'
@@ -17,7 +17,7 @@ lab-due-dates:
   lab-06: 'Optional'
 
 discussion-dates:
-  topic-00: 'WED Jan 15'
+  topic-00: 'WED Jun 11'
   topic-01: 'MON Jan 20'
   topic-02: 'MON Jan 27'
   topic-03: 'MON Feb 3'
