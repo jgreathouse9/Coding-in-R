@@ -9,7 +9,7 @@ canvas:
   yellowdig_url: 'https://gastate.view.usg.edu/d2l/le/3253562/discussions/List'
 
 lab-due-dates:
-  lab-01: 'WED Jan 22'
+  lab-01: 'WED Jun 11'
   lab-02: 'WED Jan 29'
   lab-03: 'WED Feb 5'
   lab-04: 'WED Feb 12'
